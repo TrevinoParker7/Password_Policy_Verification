@@ -1,5 +1,11 @@
 # 🕶️ LAB: Password Policy Verification 
 
+<img width="1502" height="1497" alt="image" src="https://github.com/user-attachments/assets/2a7ff719-ae2c-4955-bbee-9d55ba93a69e" />
+
+<img width="407" height="515" alt="image" src="https://github.com/user-attachments/assets/da7fcae0-dbf9-4e08-8d21-996c771c9b50" />
+
+<img width="770" height="592" alt="image" src="https://github.com/user-attachments/assets/9f074c3d-d9c4-4058-bcea-0823f517acb5" />
+
 > “You take the blue pill — the audit stays in Excel.  
 > You take the red pill — and I show you how deep the password policy goes.”  
 > — Morpheus, GRC Division
